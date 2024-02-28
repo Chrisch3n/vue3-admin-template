@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.0.4",
-    "axios": "0.21.3",
+    "axios": "0.28.0",
     "echarts": "5.3.2",
     "element-plus": "^2.2.9",
     "js-error-collection": "^1.0.7",
@@ -66,7 +66,7 @@
     "eslint-plugin-unicorn": "^43.0.2",
     "eslint-plugin-vue": "9.1.1",
     "husky": "7.0.2",
-    "jsdom": "16.4.0",
+    "jsdom": "16.5.0",
     "jsonc-eslint-parser": "^2.1.0",
     "majestic": "1.8.1",
     "mockjs": "1.1.0",
